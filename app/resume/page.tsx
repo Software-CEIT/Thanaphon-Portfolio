@@ -100,7 +100,7 @@ export default function Home() {
               </div>
               <div className="border border-black w-full min-h-42.5 p-6 space-y-3.5 flex flex-col justify-start hover:bg-black hover:text-white group">
                 <div className="flex flex-col gap-1 sm:flex-row sm:items-center sm:justify-between">
-                  <h3 className="text-2xl sm:text-3xl font-sans font-semibold">Senior Full-Stack Developer</h3>
+                  <h3 className="text-2xl sm:text-3xl font-sans font-semibold">Junior Full-Stack Developer</h3>
                   <p className="text-sm font-sans text-black/70  group-hover:text-white">2014 - 2016</p>
                 </div>
                 <p className="text-sm font-sans font-medium tracking-wider">STARTUP HUB</p>

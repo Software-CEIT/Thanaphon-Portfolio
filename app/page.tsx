@@ -129,9 +129,9 @@ export default function Home() {
               <a href="https://www.instagram.com/syq.starboy/">
                 <div className=" w-16 h-16 border-2 border-black rounded-lg flex items-center justify-center cursor-pointer">
                   <Image
-                    src="/Image/instagram.png"
-                    width={32}
-                    height={32}
+                    src="/Image/ig.png"
+                    width={48}
+                    height={48}
                     alt=""
                   />
                 </div>
